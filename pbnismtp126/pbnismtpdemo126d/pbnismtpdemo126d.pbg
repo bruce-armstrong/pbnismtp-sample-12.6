@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "pbnismtp126\\pbnismtpdemo126d\\pbnismtpdemo126d.pbl" "";
+@end;
+@begin Objects
+ "pbnismtp126\\pbnismtpdemo126d\\n_cpp_smtp.sru" "pbnismtp126\\pbnismtpdemo126d\\pbnismtpdemo126d.pbl";
+ "pbnismtp126\\pbnismtpdemo126d\\pbnismtpdemo126d.sra" "pbnismtp126\\pbnismtpdemo126d\\pbnismtpdemo126d.pbl";
+@end;
