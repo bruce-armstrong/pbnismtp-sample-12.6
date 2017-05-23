@@ -1,0 +1,7 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "pbnismtp126\\pbnismtpdemo126_objects\\pbnismtpdemo126_objects.pbl" "";
+@end;
+@begin Objects
+ "pbnismtp126\\pbnismtpdemo126_objects\\w_main.srw" "pbnismtp126\\pbnismtpdemo126_objects\\pbnismtpdemo126_objects.pbl";
+@end;
