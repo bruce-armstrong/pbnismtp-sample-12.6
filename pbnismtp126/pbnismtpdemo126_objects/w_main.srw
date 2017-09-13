@@ -879,9 +879,9 @@ TRY
 	connectiontype = ddlb_connectiontype.text
 	CHOOSE CASE connectiontype
 		CASE "TLS"
-			l_smtp.settls()
+			l_smtp.setconnectiontype ( 2 )
 		CASE "SSL"
-			l_smtp.setssl()
+			l_smtp.setconnectiontype ( 1 )
 		CASE ELSE
 			//Do Nothing
 	END CHOOSE
